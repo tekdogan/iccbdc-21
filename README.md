@@ -1,4 +1,6 @@
-# Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification
+![plot](./paper-pic.jpg)
+
+---
 
 This repository incorporates the material used in experiments for the paper **Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification**; which was submitted to *5th International Conference on Cloud and Big Data Computing* [ICCDBC'21](http://www.iccbdc.org/), in Liverpool, UK. You can reach the paper via [DOI link](https://doi.org/10.1145/3481646.3481649).
 
