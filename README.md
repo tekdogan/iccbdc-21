@@ -2,6 +2,15 @@
 
 ---
 
+<a href="https://doi.org/10.1145/3481646.3481649">
+        <img src="https://img.shields.io/badge/doi-10.1145/3481646.3481649-20BEFF?style=plastic&logo=acm" /></a>  
+        
+<a href="https://github.com/tekdogan/iccbdc-21/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/tekdogan/gcn?style=plastic" /></a>  
+        
+<br />
+<br />
+
 This repository incorporates the material used in experiments for the paper **Benchmarking Apache Spark and Hadoop MapReduce on Big Data Classification**; which was submitted to *5th International Conference on Cloud and Big Data Computing* [ICCDBC'21](http://www.iccbdc.org/), in Liverpool, UK. You can reach the paper via [DOI link](https://doi.org/10.1145/3481646.3481649).
 
 ## :file_folder: spark
