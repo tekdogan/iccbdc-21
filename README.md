@@ -7,6 +7,9 @@
         
 <a href="https://github.com/tekdogan/iccbdc-21/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/tekdogan/gcn?style=plastic" /></a>  
+
+<a href="https://dl.acm.org/doi/pdf/10.1145/3481646.3481649">
+        <img src="https://img.shields.io/badge/PDF-read-ec1c24?style=plastic&logo=adobeacrobatreader" /></a>  
         
 <br />
 <br />
